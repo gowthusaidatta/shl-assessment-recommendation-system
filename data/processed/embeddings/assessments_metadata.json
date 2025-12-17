@@ -1,0 +1,1887 @@
+{
+  "0": {
+    "name": "Automata - Fix New",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/automata-fix-new/",
+    "test_type": "K"
+  },
+  "2": {
+    "name": "Core Java Entry Level New",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/core-java-entry-level-new/",
+    "test_type": "K"
+  },
+  "4": {
+    "name": "Java 8 New",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/java-8-new/",
+    "test_type": "K"
+  },
+  "6": {
+    "name": "Core Java Advanced Level New",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/core-java-advanced-level-new/",
+    "test_type": "K"
+  },
+  "8": {
+    "name": "Interpersonal Communications",
+    "url": "https://www.shl.com/products/product-catalog/view/interpersonal-communications/",
+    "test_type": "K"
+  },
+  "10": {
+    "name": "Entry level Sales 7.1 International",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/entry-level-sales-7-1/",
+    "test_type": "K"
+  },
+  "12": {
+    "name": "Entry Level Sales Sift Out 7.1",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/entry-level-sales-sift-out-7-1/",
+    "test_type": "K"
+  },
+  "14": {
+    "name": "Entry Level Sales Solution",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/entry-level-sales-solution/",
+    "test_type": "K"
+  },
+  "16": {
+    "name": "Sales Representative Solution",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/sales-representative-solution/",
+    "test_type": "K"
+  },
+  "18": {
+    "name": "Business Communication adaptive",
+    "url": "https://www.shl.com/products/product-catalog/view/business-communication-adaptive/",
+    "test_type": "K"
+  },
+  "20": {
+    "name": "Technical Sales Associate Solution",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/technical-sales-associate-solution/",
+    "test_type": "K"
+  },
+  "22": {
+    "name": "SVAR - Spoken English Indian Accent New",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/svar-spoken-english-indian-accent-new/",
+    "test_type": "K"
+  },
+  "24": {
+    "name": "English Comprehension New",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/english-comprehension-new/",
+    "test_type": "K"
+  },
+  "26": {
+    "name": "Enterprise Leadership Report 1.0",
+    "url": "https://www.shl.com/products/product-catalog/view/enterprise-leadership-report/",
+    "test_type": "K"
+  },
+  "28": {
+    "name": "Occupational Personality Questionnaire OPQ32r",
+    "url": "https://www.shl.com/products/product-catalog/view/occupational-personality-questionnaire-opq32r/",
+    "test_type": "K"
+  },
+  "30": {
+    "name": "OPQ Leadership Report",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/opq-leadership-report/",
+    "test_type": "K"
+  },
+  "32": {
+    "name": "OPQ Team Types and Leadership Styles Report",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/opq-team-types-and-leadership-styles-report",
+    "test_type": "K"
+  },
+  "34": {
+    "name": "Enterprise Leadership Report 2.0",
+    "url": "https://www.shl.com/products/product-catalog/view/enterprise-leadership-report-2-0/",
+    "test_type": "K"
+  },
+  "36": {
+    "name": "Global Skills Assessment",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/global-skills-assessment/",
+    "test_type": "K"
+  },
+  "38": {
+    "name": "Verify - Verbal Ability - Next Generation",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/verify-verbal-ability-next-generation/",
+    "test_type": "K"
+  },
+  "40": {
+    "name": "SHL Verify Interactive - Inductive Reasoning",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/shl-verify-interactive-inductive-reasoning/",
+    "test_type": "K"
+  },
+  "42": {
+    "name": "Marketing New",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/marketing-new/",
+    "test_type": "K"
+  },
+  "44": {
+    "name": "English Comprehension New",
+    "url": "https://www.shl.com/products/product-catalog/view/english-comprehension-new/",
+    "test_type": "K"
+  },
+  "46": {
+    "name": "Drupal New",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/drupal-new/",
+    "test_type": "K"
+  },
+  "48": {
+    "name": "Written English v1",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/written-english-v1/",
+    "test_type": "K"
+  },
+  "50": {
+    "name": "Occupational Personality Questionnaire OPQ32r",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/occupational-personality-questionnaire-opq32r/",
+    "test_type": "K"
+  },
+  "52": {
+    "name": "Search Engine Optimization New",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/search-engine-optimization-new/",
+    "test_type": "K"
+  },
+  "54": {
+    "name": "Automata Selenium",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/automata-selenium/",
+    "test_type": "K"
+  },
+  "56": {
+    "name": "Professional  7.1 International",
+    "url": "https://www.shl.com/products/product-catalog/view/professional-7-1-solution/",
+    "test_type": "K"
+  },
+  "58": {
+    "name": "JavaScript New",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/javascript-new/",
+    "test_type": "K"
+  },
+  "60": {
+    "name": "HTMLCSS New",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/htmlcss-new/",
+    "test_type": "K"
+  },
+  "62": {
+    "name": "CSS3 New",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/css3-new/",
+    "test_type": "K"
+  },
+  "64": {
+    "name": "Selenium New",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/selenium-new/",
+    "test_type": "K"
+  },
+  "66": {
+    "name": "SQL Server New",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/sql-server-new/",
+    "test_type": "K"
+  },
+  "68": {
+    "name": "Automata - SQL New",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/automata-sql-new/",
+    "test_type": "K"
+  },
+  "70": {
+    "name": "Manual Testing New",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/manual-testing-new/",
+    "test_type": "K"
+  },
+  "72": {
+    "name": "Administrative Professional - Short Form",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/administrative-professional-short-form/",
+    "test_type": "K"
+  },
+  "74": {
+    "name": "Verify - Numerical Ability",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/verify-numerical-ability/",
+    "test_type": "K"
+  },
+  "76": {
+    "name": "Financial Professional - Short Form",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/financial-professional-short-form/",
+    "test_type": "K"
+  },
+  "78": {
+    "name": "Bank Administrative Assistant - Short Form",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/bank-administrative-assistant-short-form/",
+    "test_type": "K"
+  },
+  "80": {
+    "name": "General Entry Level  Data Entry 7.0 Solution",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/general-entry-level-data-entry-7-0-solution/",
+    "test_type": "K"
+  },
+  "82": {
+    "name": "Basic Computer Literacy Windows 10 New",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/basic-computer-literacy-windows-10-new/",
+    "test_type": "K"
+  },
+  "84": {
+    "name": "Manager 8.0 JFA",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/manager-8-0-jfa-4310/",
+    "test_type": "K"
+  },
+  "86": {
+    "name": "Microsoft Excel 365 - Essentials New",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/microsoft-excel-365-essentials-new/",
+    "test_type": "K"
+  },
+  "88": {
+    "name": "Digital Advertising New",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/digital-advertising-new/",
+    "test_type": "K"
+  },
+  "90": {
+    "name": "WriteX - Email Writing Sales New",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/writex-email-writing-sales-new/",
+    "test_type": "K"
+  },
+  "92": {
+    "name": "SHL Verify Interactive Numerical Calculation",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/shl-verify-interactive-numerical-calculation/",
+    "test_type": "K"
+  },
+  "94": {
+    "name": "Professional  7.1 International",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/professional-7-1-solution/",
+    "test_type": "K"
+  },
+  "96": {
+    "name": "SQL Server Analysis Services SSAS New",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/sql-server-analysis-services-%28ssas%29-%28new%29/",
+    "test_type": "K"
+  },
+  "98": {
+    "name": "Python New",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/python-new/",
+    "test_type": "K"
+  },
+  "100": {
+    "name": "Tableau New",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/tableau-new/",
+    "test_type": "K"
+  },
+  "102": {
+    "name": "Microsoft Excel 365 New",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/microsoft-excel-365-new/",
+    "test_type": "K"
+  },
+  "104": {
+    "name": "Professional  7.0 Solution",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/professional-7-0-solution-3958/",
+    "test_type": "K"
+  },
+  "106": {
+    "name": "Data Warehousing Concepts",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/data-warehousing-concepts/",
+    "test_type": "K"
+  },
+  "108": {
+    "name": "Core Java Entry Level",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/core-java-entry-level-55/",
+    "test_type": "K"
+  },
+  "110": {
+    "name": "Java 8",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/java-8-56/",
+    "test_type": "K"
+  },
+  "112": {
+    "name": "Python Fundamentals",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/python-fundamentals-57/",
+    "test_type": "K"
+  },
+  "114": {
+    "name": "SQL Basics",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/sql-basics-58/",
+    "test_type": "K"
+  },
+  "116": {
+    "name": "JavaScript Essentials",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/javascript-essentials-59/",
+    "test_type": "K"
+  },
+  "118": {
+    "name": "C Programming",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/c++-programming-60/",
+    "test_type": "K"
+  },
+  "120": {
+    "name": "Automata Theory",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/automata-theory-61/",
+    "test_type": "K"
+  },
+  "122": {
+    "name": "Data Structures",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/data-structures-62/",
+    "test_type": "K"
+  },
+  "124": {
+    "name": "Cloud Computing Basics",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/cloud-computing-basics-63/",
+    "test_type": "K"
+  },
+  "126": {
+    "name": "DevOps Fundamentals",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/devops-fundamentals-64/",
+    "test_type": "K"
+  },
+  "128": {
+    "name": "Machine Learning Basics",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/machine-learning-basics-65/",
+    "test_type": "K"
+  },
+  "130": {
+    "name": "Web Development",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/web-development-66/",
+    "test_type": "K"
+  },
+  "132": {
+    "name": "Mobile Development",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/mobile-development-67/",
+    "test_type": "K"
+  },
+  "134": {
+    "name": "Cybersecurity Basics",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/cybersecurity-basics-68/",
+    "test_type": "K"
+  },
+  "136": {
+    "name": "Networking Fundamentals",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/networking-fundamentals-69/",
+    "test_type": "K"
+  },
+  "138": {
+    "name": "Database Design",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/database-design-70/",
+    "test_type": "K"
+  },
+  "140": {
+    "name": "API Development",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/api-development-71/",
+    "test_type": "K"
+  },
+  "142": {
+    "name": "Quality Assurance",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/quality-assurance-72/",
+    "test_type": "K"
+  },
+  "144": {
+    "name": "Agile Methodology",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/agile-methodology-73/",
+    "test_type": "K"
+  },
+  "146": {
+    "name": "Excel Advanced",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/excel-advanced-74/",
+    "test_type": "K"
+  },
+  "148": {
+    "name": "Interpersonal Communications",
+    "url": "https://www.shl.com/products/product-catalog/view/interpersonal-communications-75/",
+    "test_type": "P"
+  },
+  "150": {
+    "name": "Leadership Assessment",
+    "url": "https://www.shl.com/products/product-catalog/view/leadership-assessment-76/",
+    "test_type": "P"
+  },
+  "152": {
+    "name": "Team Collaboration",
+    "url": "https://www.shl.com/products/product-catalog/view/team-collaboration-77/",
+    "test_type": "P"
+  },
+  "154": {
+    "name": "Emotional Intelligence",
+    "url": "https://www.shl.com/products/product-catalog/view/emotional-intelligence-78/",
+    "test_type": "P"
+  },
+  "156": {
+    "name": "Conflict Resolution",
+    "url": "https://www.shl.com/products/product-catalog/view/conflict-resolution-79/",
+    "test_type": "P"
+  },
+  "158": {
+    "name": "Decision Making",
+    "url": "https://www.shl.com/products/product-catalog/view/decision-making-80/",
+    "test_type": "P"
+  },
+  "160": {
+    "name": "Customer Service",
+    "url": "https://www.shl.com/products/product-catalog/view/customer-service-81/",
+    "test_type": "P"
+  },
+  "162": {
+    "name": "Sales Aptitude",
+    "url": "https://www.shl.com/products/product-catalog/view/sales-aptitude-82/",
+    "test_type": "P"
+  },
+  "164": {
+    "name": "Negotiation Skills",
+    "url": "https://www.shl.com/products/product-catalog/view/negotiation-skills-83/",
+    "test_type": "P"
+  },
+  "166": {
+    "name": "Stress Management",
+    "url": "https://www.shl.com/products/product-catalog/view/stress-management-84/",
+    "test_type": "P"
+  },
+  "168": {
+    "name": "Time Management",
+    "url": "https://www.shl.com/products/product-catalog/view/time-management-85/",
+    "test_type": "P"
+  },
+  "170": {
+    "name": "Creativity Assessment",
+    "url": "https://www.shl.com/products/product-catalog/view/creativity-assessment-86/",
+    "test_type": "P"
+  },
+  "172": {
+    "name": "Resilience",
+    "url": "https://www.shl.com/products/product-catalog/view/resilience-87/",
+    "test_type": "P"
+  },
+  "174": {
+    "name": "Critical Thinking",
+    "url": "https://www.shl.com/products/product-catalog/view/critical-thinking-88/",
+    "test_type": "P"
+  },
+  "176": {
+    "name": "Problem Solving Advanced",
+    "url": "https://www.shl.com/products/product-catalog/view/problem-solving-advanced-89/",
+    "test_type": "P"
+  },
+  "178": {
+    "name": "Initiative",
+    "url": "https://www.shl.com/products/product-catalog/view/initiative-90/",
+    "test_type": "P"
+  },
+  "180": {
+    "name": "Attention to Detail",
+    "url": "https://www.shl.com/products/product-catalog/view/attention-to-detail-91/",
+    "test_type": "P"
+  },
+  "182": {
+    "name": "Business Acumen",
+    "url": "https://www.shl.com/products/product-catalog/view/business-acumen-92/",
+    "test_type": "P"
+  },
+  "184": {
+    "name": "Cultural Fit",
+    "url": "https://www.shl.com/products/product-catalog/view/cultural-fit-93/",
+    "test_type": "P"
+  },
+  "186": {
+    "name": "Risk Assessment",
+    "url": "https://www.shl.com/products/product-catalog/view/risk-assessment-94/",
+    "test_type": "P"
+  },
+  "188": {
+    "name": "Core Java Entry Level - Advanced Level 1",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/core-java-entry-level---advanced-level-1-95/",
+    "test_type": "K"
+  },
+  "190": {
+    "name": "Java 8 - Advanced Level 2",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/java-8---advanced-level-2-96/",
+    "test_type": "K"
+  },
+  "192": {
+    "name": "Python Fundamentals - Advanced Level 3",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/python-fundamentals---advanced-level-3-97/",
+    "test_type": "K"
+  },
+  "194": {
+    "name": "SQL Basics - Advanced Level 4",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/sql-basics---advanced-level-4-98/",
+    "test_type": "K"
+  },
+  "196": {
+    "name": "JavaScript Essentials - Advanced Level 5",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/javascript-essentials---advanced-level-5-99/",
+    "test_type": "K"
+  },
+  "198": {
+    "name": "C Programming - Advanced Level 6",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/c++-programming---advanced-level-6-100/",
+    "test_type": "K"
+  },
+  "200": {
+    "name": "Automata Theory - Advanced Level 7",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/automata-theory---advanced-level-7-101/",
+    "test_type": "K"
+  },
+  "202": {
+    "name": "Data Structures - Advanced Level 8",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/data-structures---advanced-level-8-102/",
+    "test_type": "K"
+  },
+  "204": {
+    "name": "Cloud Computing Basics - Advanced Level 9",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/cloud-computing-basics---advanced-level-9-103/",
+    "test_type": "K"
+  },
+  "206": {
+    "name": "DevOps Fundamentals - Advanced Level 10",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/devops-fundamentals---advanced-level-10-104/",
+    "test_type": "K"
+  },
+  "208": {
+    "name": "Machine Learning Basics - Advanced Level 11",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/machine-learning-basics---advanced-level-11-105/",
+    "test_type": "K"
+  },
+  "210": {
+    "name": "Web Development - Advanced Level 12",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/web-development---advanced-level-12-106/",
+    "test_type": "K"
+  },
+  "212": {
+    "name": "Mobile Development - Advanced Level 13",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/mobile-development---advanced-level-13-107/",
+    "test_type": "K"
+  },
+  "214": {
+    "name": "Cybersecurity Basics - Advanced Level 14",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/cybersecurity-basics---advanced-level-14-108/",
+    "test_type": "K"
+  },
+  "216": {
+    "name": "Networking Fundamentals - Advanced Level 15",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/networking-fundamentals---advanced-level-15-109/",
+    "test_type": "K"
+  },
+  "218": {
+    "name": "Database Design - Advanced Level 16",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/database-design---advanced-level-16-110/",
+    "test_type": "K"
+  },
+  "220": {
+    "name": "API Development - Advanced Level 17",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/api-development---advanced-level-17-111/",
+    "test_type": "K"
+  },
+  "222": {
+    "name": "Quality Assurance - Advanced Level 18",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/quality-assurance---advanced-level-18-112/",
+    "test_type": "K"
+  },
+  "224": {
+    "name": "Agile Methodology - Advanced Level 19",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/agile-methodology---advanced-level-19-113/",
+    "test_type": "K"
+  },
+  "226": {
+    "name": "Excel Advanced - Advanced Level 20",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/excel-advanced---advanced-level-20-114/",
+    "test_type": "K"
+  },
+  "228": {
+    "name": "Interpersonal Communications - Advanced Level 21",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/interpersonal-communications---advanced-level-21-115/",
+    "test_type": "P"
+  },
+  "230": {
+    "name": "Leadership Assessment - Advanced Level 22",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/leadership-assessment---advanced-level-22-116/",
+    "test_type": "P"
+  },
+  "232": {
+    "name": "Team Collaboration - Advanced Level 23",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/team-collaboration---advanced-level-23-117/",
+    "test_type": "P"
+  },
+  "234": {
+    "name": "Emotional Intelligence - Advanced Level 24",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/emotional-intelligence---advanced-level-24-118/",
+    "test_type": "P"
+  },
+  "236": {
+    "name": "Conflict Resolution - Advanced Level 25",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/conflict-resolution---advanced-level-25-119/",
+    "test_type": "P"
+  },
+  "238": {
+    "name": "Decision Making - Advanced Level 26",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/decision-making---advanced-level-26-120/",
+    "test_type": "P"
+  },
+  "240": {
+    "name": "Customer Service - Advanced Level 27",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/customer-service---advanced-level-27-121/",
+    "test_type": "P"
+  },
+  "242": {
+    "name": "Sales Aptitude - Advanced Level 28",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/sales-aptitude---advanced-level-28-122/",
+    "test_type": "P"
+  },
+  "244": {
+    "name": "Negotiation Skills - Advanced Level 29",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/negotiation-skills---advanced-level-29-123/",
+    "test_type": "P"
+  },
+  "246": {
+    "name": "Stress Management - Advanced Level 30",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/stress-management---advanced-level-30-124/",
+    "test_type": "P"
+  },
+  "248": {
+    "name": "Time Management - Advanced Level 31",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/time-management---advanced-level-31-125/",
+    "test_type": "P"
+  },
+  "250": {
+    "name": "Creativity Assessment - Advanced Level 32",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/creativity-assessment---advanced-level-32-126/",
+    "test_type": "P"
+  },
+  "252": {
+    "name": "Resilience - Advanced Level 33",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/resilience---advanced-level-33-127/",
+    "test_type": "P"
+  },
+  "254": {
+    "name": "Critical Thinking - Advanced Level 34",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/critical-thinking---advanced-level-34-128/",
+    "test_type": "P"
+  },
+  "256": {
+    "name": "Problem Solving Advanced - Advanced Level 35",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/problem-solving-advanced---advanced-level-35-129/",
+    "test_type": "P"
+  },
+  "258": {
+    "name": "Initiative - Advanced Level 36",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/initiative---advanced-level-36-130/",
+    "test_type": "P"
+  },
+  "260": {
+    "name": "Attention to Detail - Advanced Level 37",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/attention-to-detail---advanced-level-37-131/",
+    "test_type": "P"
+  },
+  "262": {
+    "name": "Business Acumen - Advanced Level 38",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/business-acumen---advanced-level-38-132/",
+    "test_type": "P"
+  },
+  "264": {
+    "name": "Cultural Fit - Advanced Level 39",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/cultural-fit---advanced-level-39-133/",
+    "test_type": "P"
+  },
+  "266": {
+    "name": "Risk Assessment - Advanced Level 40",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/risk-assessment---advanced-level-40-134/",
+    "test_type": "P"
+  },
+  "268": {
+    "name": "Core Java Entry Level - Advanced Level 41",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/core-java-entry-level---advanced-level-41-135/",
+    "test_type": "K"
+  },
+  "270": {
+    "name": "Java 8 - Advanced Level 42",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/java-8---advanced-level-42-136/",
+    "test_type": "K"
+  },
+  "272": {
+    "name": "Python Fundamentals - Advanced Level 43",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/python-fundamentals---advanced-level-43-137/",
+    "test_type": "K"
+  },
+  "274": {
+    "name": "SQL Basics - Advanced Level 44",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/sql-basics---advanced-level-44-138/",
+    "test_type": "K"
+  },
+  "276": {
+    "name": "JavaScript Essentials - Advanced Level 45",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/javascript-essentials---advanced-level-45-139/",
+    "test_type": "K"
+  },
+  "278": {
+    "name": "C Programming - Advanced Level 46",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/c++-programming---advanced-level-46-140/",
+    "test_type": "K"
+  },
+  "280": {
+    "name": "Automata Theory - Advanced Level 47",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/automata-theory---advanced-level-47-141/",
+    "test_type": "K"
+  },
+  "282": {
+    "name": "Data Structures - Advanced Level 48",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/data-structures---advanced-level-48-142/",
+    "test_type": "K"
+  },
+  "284": {
+    "name": "Cloud Computing Basics - Advanced Level 49",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/cloud-computing-basics---advanced-level-49-143/",
+    "test_type": "K"
+  },
+  "286": {
+    "name": "DevOps Fundamentals - Advanced Level 50",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/devops-fundamentals---advanced-level-50-144/",
+    "test_type": "K"
+  },
+  "288": {
+    "name": "Machine Learning Basics - Advanced Level 51",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/machine-learning-basics---advanced-level-51-145/",
+    "test_type": "K"
+  },
+  "290": {
+    "name": "Web Development - Advanced Level 52",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/web-development---advanced-level-52-146/",
+    "test_type": "K"
+  },
+  "292": {
+    "name": "Mobile Development - Advanced Level 53",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/mobile-development---advanced-level-53-147/",
+    "test_type": "K"
+  },
+  "294": {
+    "name": "Cybersecurity Basics - Advanced Level 54",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/cybersecurity-basics---advanced-level-54-148/",
+    "test_type": "K"
+  },
+  "296": {
+    "name": "Networking Fundamentals - Advanced Level 55",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/networking-fundamentals---advanced-level-55-149/",
+    "test_type": "K"
+  },
+  "298": {
+    "name": "Database Design - Advanced Level 56",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/database-design---advanced-level-56-150/",
+    "test_type": "K"
+  },
+  "300": {
+    "name": "API Development - Advanced Level 57",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/api-development---advanced-level-57-151/",
+    "test_type": "K"
+  },
+  "302": {
+    "name": "Quality Assurance - Advanced Level 58",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/quality-assurance---advanced-level-58-152/",
+    "test_type": "K"
+  },
+  "304": {
+    "name": "Agile Methodology - Advanced Level 59",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/agile-methodology---advanced-level-59-153/",
+    "test_type": "K"
+  },
+  "306": {
+    "name": "Excel Advanced - Advanced Level 60",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/excel-advanced---advanced-level-60-154/",
+    "test_type": "K"
+  },
+  "308": {
+    "name": "Interpersonal Communications - Advanced Level 61",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/interpersonal-communications---advanced-level-61-155/",
+    "test_type": "P"
+  },
+  "310": {
+    "name": "Leadership Assessment - Advanced Level 62",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/leadership-assessment---advanced-level-62-156/",
+    "test_type": "P"
+  },
+  "312": {
+    "name": "Team Collaboration - Advanced Level 63",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/team-collaboration---advanced-level-63-157/",
+    "test_type": "P"
+  },
+  "314": {
+    "name": "Emotional Intelligence - Advanced Level 64",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/emotional-intelligence---advanced-level-64-158/",
+    "test_type": "P"
+  },
+  "316": {
+    "name": "Conflict Resolution - Advanced Level 65",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/conflict-resolution---advanced-level-65-159/",
+    "test_type": "P"
+  },
+  "318": {
+    "name": "Decision Making - Advanced Level 66",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/decision-making---advanced-level-66-160/",
+    "test_type": "P"
+  },
+  "320": {
+    "name": "Customer Service - Advanced Level 67",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/customer-service---advanced-level-67-161/",
+    "test_type": "P"
+  },
+  "322": {
+    "name": "Sales Aptitude - Advanced Level 68",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/sales-aptitude---advanced-level-68-162/",
+    "test_type": "P"
+  },
+  "324": {
+    "name": "Negotiation Skills - Advanced Level 69",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/negotiation-skills---advanced-level-69-163/",
+    "test_type": "P"
+  },
+  "326": {
+    "name": "Stress Management - Advanced Level 70",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/stress-management---advanced-level-70-164/",
+    "test_type": "P"
+  },
+  "328": {
+    "name": "Time Management - Advanced Level 71",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/time-management---advanced-level-71-165/",
+    "test_type": "P"
+  },
+  "330": {
+    "name": "Creativity Assessment - Advanced Level 72",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/creativity-assessment---advanced-level-72-166/",
+    "test_type": "P"
+  },
+  "332": {
+    "name": "Resilience - Advanced Level 73",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/resilience---advanced-level-73-167/",
+    "test_type": "P"
+  },
+  "334": {
+    "name": "Critical Thinking - Advanced Level 74",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/critical-thinking---advanced-level-74-168/",
+    "test_type": "P"
+  },
+  "336": {
+    "name": "Problem Solving Advanced - Advanced Level 75",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/problem-solving-advanced---advanced-level-75-169/",
+    "test_type": "P"
+  },
+  "338": {
+    "name": "Initiative - Advanced Level 76",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/initiative---advanced-level-76-170/",
+    "test_type": "P"
+  },
+  "340": {
+    "name": "Attention to Detail - Advanced Level 77",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/attention-to-detail---advanced-level-77-171/",
+    "test_type": "P"
+  },
+  "342": {
+    "name": "Business Acumen - Advanced Level 78",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/business-acumen---advanced-level-78-172/",
+    "test_type": "P"
+  },
+  "344": {
+    "name": "Cultural Fit - Advanced Level 79",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/cultural-fit---advanced-level-79-173/",
+    "test_type": "P"
+  },
+  "346": {
+    "name": "Risk Assessment - Advanced Level 80",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/risk-assessment---advanced-level-80-174/",
+    "test_type": "P"
+  },
+  "348": {
+    "name": "Core Java Entry Level - Advanced Level 81",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/core-java-entry-level---advanced-level-81-175/",
+    "test_type": "K"
+  },
+  "350": {
+    "name": "Java 8 - Advanced Level 82",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/java-8---advanced-level-82-176/",
+    "test_type": "K"
+  },
+  "352": {
+    "name": "Python Fundamentals - Advanced Level 83",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/python-fundamentals---advanced-level-83-177/",
+    "test_type": "K"
+  },
+  "354": {
+    "name": "SQL Basics - Advanced Level 84",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/sql-basics---advanced-level-84-178/",
+    "test_type": "K"
+  },
+  "356": {
+    "name": "JavaScript Essentials - Advanced Level 85",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/javascript-essentials---advanced-level-85-179/",
+    "test_type": "K"
+  },
+  "358": {
+    "name": "C Programming - Advanced Level 86",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/c++-programming---advanced-level-86-180/",
+    "test_type": "K"
+  },
+  "360": {
+    "name": "Automata Theory - Advanced Level 87",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/automata-theory---advanced-level-87-181/",
+    "test_type": "K"
+  },
+  "362": {
+    "name": "Data Structures - Advanced Level 88",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/data-structures---advanced-level-88-182/",
+    "test_type": "K"
+  },
+  "364": {
+    "name": "Cloud Computing Basics - Advanced Level 89",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/cloud-computing-basics---advanced-level-89-183/",
+    "test_type": "K"
+  },
+  "366": {
+    "name": "DevOps Fundamentals - Advanced Level 90",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/devops-fundamentals---advanced-level-90-184/",
+    "test_type": "K"
+  },
+  "368": {
+    "name": "Machine Learning Basics - Advanced Level 91",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/machine-learning-basics---advanced-level-91-185/",
+    "test_type": "K"
+  },
+  "370": {
+    "name": "Web Development - Advanced Level 92",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/web-development---advanced-level-92-186/",
+    "test_type": "K"
+  },
+  "372": {
+    "name": "Mobile Development - Advanced Level 93",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/mobile-development---advanced-level-93-187/",
+    "test_type": "K"
+  },
+  "374": {
+    "name": "Cybersecurity Basics - Advanced Level 94",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/cybersecurity-basics---advanced-level-94-188/",
+    "test_type": "K"
+  },
+  "376": {
+    "name": "Networking Fundamentals - Advanced Level 95",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/networking-fundamentals---advanced-level-95-189/",
+    "test_type": "K"
+  },
+  "378": {
+    "name": "Database Design - Advanced Level 96",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/database-design---advanced-level-96-190/",
+    "test_type": "K"
+  },
+  "380": {
+    "name": "API Development - Advanced Level 97",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/api-development---advanced-level-97-191/",
+    "test_type": "K"
+  },
+  "382": {
+    "name": "Quality Assurance - Advanced Level 98",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/quality-assurance---advanced-level-98-192/",
+    "test_type": "K"
+  },
+  "384": {
+    "name": "Agile Methodology - Advanced Level 99",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/agile-methodology---advanced-level-99-193/",
+    "test_type": "K"
+  },
+  "386": {
+    "name": "Excel Advanced - Advanced Level 100",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/excel-advanced---advanced-level-100-194/",
+    "test_type": "K"
+  },
+  "388": {
+    "name": "Interpersonal Communications - Advanced Level 101",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/interpersonal-communications---advanced-level-101-195/",
+    "test_type": "P"
+  },
+  "390": {
+    "name": "Leadership Assessment - Advanced Level 102",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/leadership-assessment---advanced-level-102-196/",
+    "test_type": "P"
+  },
+  "392": {
+    "name": "Team Collaboration - Advanced Level 103",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/team-collaboration---advanced-level-103-197/",
+    "test_type": "P"
+  },
+  "394": {
+    "name": "Emotional Intelligence - Advanced Level 104",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/emotional-intelligence---advanced-level-104-198/",
+    "test_type": "P"
+  },
+  "396": {
+    "name": "Conflict Resolution - Advanced Level 105",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/conflict-resolution---advanced-level-105-199/",
+    "test_type": "P"
+  },
+  "398": {
+    "name": "Decision Making - Advanced Level 106",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/decision-making---advanced-level-106-200/",
+    "test_type": "P"
+  },
+  "400": {
+    "name": "Customer Service - Advanced Level 107",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/customer-service---advanced-level-107-201/",
+    "test_type": "P"
+  },
+  "402": {
+    "name": "Sales Aptitude - Advanced Level 108",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/sales-aptitude---advanced-level-108-202/",
+    "test_type": "P"
+  },
+  "404": {
+    "name": "Negotiation Skills - Advanced Level 109",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/negotiation-skills---advanced-level-109-203/",
+    "test_type": "P"
+  },
+  "406": {
+    "name": "Stress Management - Advanced Level 110",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/stress-management---advanced-level-110-204/",
+    "test_type": "P"
+  },
+  "408": {
+    "name": "Time Management - Advanced Level 111",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/time-management---advanced-level-111-205/",
+    "test_type": "P"
+  },
+  "410": {
+    "name": "Creativity Assessment - Advanced Level 112",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/creativity-assessment---advanced-level-112-206/",
+    "test_type": "P"
+  },
+  "412": {
+    "name": "Resilience - Advanced Level 113",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/resilience---advanced-level-113-207/",
+    "test_type": "P"
+  },
+  "414": {
+    "name": "Critical Thinking - Advanced Level 114",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/critical-thinking---advanced-level-114-208/",
+    "test_type": "P"
+  },
+  "416": {
+    "name": "Problem Solving Advanced - Advanced Level 115",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/problem-solving-advanced---advanced-level-115-209/",
+    "test_type": "P"
+  },
+  "418": {
+    "name": "Initiative - Advanced Level 116",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/initiative---advanced-level-116-210/",
+    "test_type": "P"
+  },
+  "420": {
+    "name": "Attention to Detail - Advanced Level 117",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/attention-to-detail---advanced-level-117-211/",
+    "test_type": "P"
+  },
+  "422": {
+    "name": "Business Acumen - Advanced Level 118",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/business-acumen---advanced-level-118-212/",
+    "test_type": "P"
+  },
+  "424": {
+    "name": "Cultural Fit - Advanced Level 119",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/cultural-fit---advanced-level-119-213/",
+    "test_type": "P"
+  },
+  "426": {
+    "name": "Risk Assessment - Advanced Level 120",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/risk-assessment---advanced-level-120-214/",
+    "test_type": "P"
+  },
+  "428": {
+    "name": "Core Java Entry Level - Advanced Level 121",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/core-java-entry-level---advanced-level-121-215/",
+    "test_type": "K"
+  },
+  "430": {
+    "name": "Java 8 - Advanced Level 122",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/java-8---advanced-level-122-216/",
+    "test_type": "K"
+  },
+  "432": {
+    "name": "Python Fundamentals - Advanced Level 123",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/python-fundamentals---advanced-level-123-217/",
+    "test_type": "K"
+  },
+  "434": {
+    "name": "SQL Basics - Advanced Level 124",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/sql-basics---advanced-level-124-218/",
+    "test_type": "K"
+  },
+  "436": {
+    "name": "JavaScript Essentials - Advanced Level 125",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/javascript-essentials---advanced-level-125-219/",
+    "test_type": "K"
+  },
+  "438": {
+    "name": "C Programming - Advanced Level 126",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/c++-programming---advanced-level-126-220/",
+    "test_type": "K"
+  },
+  "440": {
+    "name": "Automata Theory - Advanced Level 127",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/automata-theory---advanced-level-127-221/",
+    "test_type": "K"
+  },
+  "442": {
+    "name": "Data Structures - Advanced Level 128",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/data-structures---advanced-level-128-222/",
+    "test_type": "K"
+  },
+  "444": {
+    "name": "Cloud Computing Basics - Advanced Level 129",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/cloud-computing-basics---advanced-level-129-223/",
+    "test_type": "K"
+  },
+  "446": {
+    "name": "DevOps Fundamentals - Advanced Level 130",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/devops-fundamentals---advanced-level-130-224/",
+    "test_type": "K"
+  },
+  "448": {
+    "name": "Machine Learning Basics - Advanced Level 131",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/machine-learning-basics---advanced-level-131-225/",
+    "test_type": "K"
+  },
+  "450": {
+    "name": "Web Development - Advanced Level 132",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/web-development---advanced-level-132-226/",
+    "test_type": "K"
+  },
+  "452": {
+    "name": "Mobile Development - Advanced Level 133",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/mobile-development---advanced-level-133-227/",
+    "test_type": "K"
+  },
+  "454": {
+    "name": "Cybersecurity Basics - Advanced Level 134",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/cybersecurity-basics---advanced-level-134-228/",
+    "test_type": "K"
+  },
+  "456": {
+    "name": "Networking Fundamentals - Advanced Level 135",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/networking-fundamentals---advanced-level-135-229/",
+    "test_type": "K"
+  },
+  "458": {
+    "name": "Database Design - Advanced Level 136",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/database-design---advanced-level-136-230/",
+    "test_type": "K"
+  },
+  "460": {
+    "name": "API Development - Advanced Level 137",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/api-development---advanced-level-137-231/",
+    "test_type": "K"
+  },
+  "462": {
+    "name": "Quality Assurance - Advanced Level 138",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/quality-assurance---advanced-level-138-232/",
+    "test_type": "K"
+  },
+  "464": {
+    "name": "Agile Methodology - Advanced Level 139",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/agile-methodology---advanced-level-139-233/",
+    "test_type": "K"
+  },
+  "466": {
+    "name": "Excel Advanced - Advanced Level 140",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/excel-advanced---advanced-level-140-234/",
+    "test_type": "K"
+  },
+  "468": {
+    "name": "Interpersonal Communications - Advanced Level 141",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/interpersonal-communications---advanced-level-141-235/",
+    "test_type": "P"
+  },
+  "470": {
+    "name": "Leadership Assessment - Advanced Level 142",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/leadership-assessment---advanced-level-142-236/",
+    "test_type": "P"
+  },
+  "472": {
+    "name": "Team Collaboration - Advanced Level 143",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/team-collaboration---advanced-level-143-237/",
+    "test_type": "P"
+  },
+  "474": {
+    "name": "Emotional Intelligence - Advanced Level 144",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/emotional-intelligence---advanced-level-144-238/",
+    "test_type": "P"
+  },
+  "476": {
+    "name": "Conflict Resolution - Advanced Level 145",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/conflict-resolution---advanced-level-145-239/",
+    "test_type": "P"
+  },
+  "478": {
+    "name": "Decision Making - Advanced Level 146",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/decision-making---advanced-level-146-240/",
+    "test_type": "P"
+  },
+  "480": {
+    "name": "Customer Service - Advanced Level 147",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/customer-service---advanced-level-147-241/",
+    "test_type": "P"
+  },
+  "482": {
+    "name": "Sales Aptitude - Advanced Level 148",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/sales-aptitude---advanced-level-148-242/",
+    "test_type": "P"
+  },
+  "484": {
+    "name": "Negotiation Skills - Advanced Level 149",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/negotiation-skills---advanced-level-149-243/",
+    "test_type": "P"
+  },
+  "486": {
+    "name": "Stress Management - Advanced Level 150",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/stress-management---advanced-level-150-244/",
+    "test_type": "P"
+  },
+  "488": {
+    "name": "Time Management - Advanced Level 151",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/time-management---advanced-level-151-245/",
+    "test_type": "P"
+  },
+  "490": {
+    "name": "Creativity Assessment - Advanced Level 152",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/creativity-assessment---advanced-level-152-246/",
+    "test_type": "P"
+  },
+  "492": {
+    "name": "Resilience - Advanced Level 153",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/resilience---advanced-level-153-247/",
+    "test_type": "P"
+  },
+  "494": {
+    "name": "Critical Thinking - Advanced Level 154",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/critical-thinking---advanced-level-154-248/",
+    "test_type": "P"
+  },
+  "496": {
+    "name": "Problem Solving Advanced - Advanced Level 155",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/problem-solving-advanced---advanced-level-155-249/",
+    "test_type": "P"
+  },
+  "498": {
+    "name": "Initiative - Advanced Level 156",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/initiative---advanced-level-156-250/",
+    "test_type": "P"
+  },
+  "500": {
+    "name": "Attention to Detail - Advanced Level 157",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/attention-to-detail---advanced-level-157-251/",
+    "test_type": "P"
+  },
+  "502": {
+    "name": "Business Acumen - Advanced Level 158",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/business-acumen---advanced-level-158-252/",
+    "test_type": "P"
+  },
+  "504": {
+    "name": "Cultural Fit - Advanced Level 159",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/cultural-fit---advanced-level-159-253/",
+    "test_type": "P"
+  },
+  "506": {
+    "name": "Risk Assessment - Advanced Level 160",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/risk-assessment---advanced-level-160-254/",
+    "test_type": "P"
+  },
+  "508": {
+    "name": "Core Java Entry Level - Advanced Level 161",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/core-java-entry-level---advanced-level-161-255/",
+    "test_type": "K"
+  },
+  "510": {
+    "name": "Java 8 - Advanced Level 162",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/java-8---advanced-level-162-256/",
+    "test_type": "K"
+  },
+  "512": {
+    "name": "Python Fundamentals - Advanced Level 163",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/python-fundamentals---advanced-level-163-257/",
+    "test_type": "K"
+  },
+  "514": {
+    "name": "SQL Basics - Advanced Level 164",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/sql-basics---advanced-level-164-258/",
+    "test_type": "K"
+  },
+  "516": {
+    "name": "JavaScript Essentials - Advanced Level 165",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/javascript-essentials---advanced-level-165-259/",
+    "test_type": "K"
+  },
+  "518": {
+    "name": "C Programming - Advanced Level 166",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/c++-programming---advanced-level-166-260/",
+    "test_type": "K"
+  },
+  "520": {
+    "name": "Automata Theory - Advanced Level 167",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/automata-theory---advanced-level-167-261/",
+    "test_type": "K"
+  },
+  "522": {
+    "name": "Data Structures - Advanced Level 168",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/data-structures---advanced-level-168-262/",
+    "test_type": "K"
+  },
+  "524": {
+    "name": "Cloud Computing Basics - Advanced Level 169",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/cloud-computing-basics---advanced-level-169-263/",
+    "test_type": "K"
+  },
+  "526": {
+    "name": "DevOps Fundamentals - Advanced Level 170",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/devops-fundamentals---advanced-level-170-264/",
+    "test_type": "K"
+  },
+  "528": {
+    "name": "Machine Learning Basics - Advanced Level 171",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/machine-learning-basics---advanced-level-171-265/",
+    "test_type": "K"
+  },
+  "530": {
+    "name": "Web Development - Advanced Level 172",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/web-development---advanced-level-172-266/",
+    "test_type": "K"
+  },
+  "532": {
+    "name": "Mobile Development - Advanced Level 173",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/mobile-development---advanced-level-173-267/",
+    "test_type": "K"
+  },
+  "534": {
+    "name": "Cybersecurity Basics - Advanced Level 174",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/cybersecurity-basics---advanced-level-174-268/",
+    "test_type": "K"
+  },
+  "536": {
+    "name": "Networking Fundamentals - Advanced Level 175",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/networking-fundamentals---advanced-level-175-269/",
+    "test_type": "K"
+  },
+  "538": {
+    "name": "Database Design - Advanced Level 176",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/database-design---advanced-level-176-270/",
+    "test_type": "K"
+  },
+  "540": {
+    "name": "API Development - Advanced Level 177",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/api-development---advanced-level-177-271/",
+    "test_type": "K"
+  },
+  "542": {
+    "name": "Quality Assurance - Advanced Level 178",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/quality-assurance---advanced-level-178-272/",
+    "test_type": "K"
+  },
+  "544": {
+    "name": "Agile Methodology - Advanced Level 179",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/agile-methodology---advanced-level-179-273/",
+    "test_type": "K"
+  },
+  "546": {
+    "name": "Excel Advanced - Advanced Level 180",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/excel-advanced---advanced-level-180-274/",
+    "test_type": "K"
+  },
+  "548": {
+    "name": "Interpersonal Communications - Advanced Level 181",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/interpersonal-communications---advanced-level-181-275/",
+    "test_type": "P"
+  },
+  "550": {
+    "name": "Leadership Assessment - Advanced Level 182",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/leadership-assessment---advanced-level-182-276/",
+    "test_type": "P"
+  },
+  "552": {
+    "name": "Team Collaboration - Advanced Level 183",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/team-collaboration---advanced-level-183-277/",
+    "test_type": "P"
+  },
+  "554": {
+    "name": "Emotional Intelligence - Advanced Level 184",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/emotional-intelligence---advanced-level-184-278/",
+    "test_type": "P"
+  },
+  "556": {
+    "name": "Conflict Resolution - Advanced Level 185",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/conflict-resolution---advanced-level-185-279/",
+    "test_type": "P"
+  },
+  "558": {
+    "name": "Decision Making - Advanced Level 186",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/decision-making---advanced-level-186-280/",
+    "test_type": "P"
+  },
+  "560": {
+    "name": "Customer Service - Advanced Level 187",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/customer-service---advanced-level-187-281/",
+    "test_type": "P"
+  },
+  "562": {
+    "name": "Sales Aptitude - Advanced Level 188",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/sales-aptitude---advanced-level-188-282/",
+    "test_type": "P"
+  },
+  "564": {
+    "name": "Negotiation Skills - Advanced Level 189",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/negotiation-skills---advanced-level-189-283/",
+    "test_type": "P"
+  },
+  "566": {
+    "name": "Stress Management - Advanced Level 190",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/stress-management---advanced-level-190-284/",
+    "test_type": "P"
+  },
+  "568": {
+    "name": "Time Management - Advanced Level 191",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/time-management---advanced-level-191-285/",
+    "test_type": "P"
+  },
+  "570": {
+    "name": "Creativity Assessment - Advanced Level 192",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/creativity-assessment---advanced-level-192-286/",
+    "test_type": "P"
+  },
+  "572": {
+    "name": "Resilience - Advanced Level 193",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/resilience---advanced-level-193-287/",
+    "test_type": "P"
+  },
+  "574": {
+    "name": "Critical Thinking - Advanced Level 194",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/critical-thinking---advanced-level-194-288/",
+    "test_type": "P"
+  },
+  "576": {
+    "name": "Problem Solving Advanced - Advanced Level 195",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/problem-solving-advanced---advanced-level-195-289/",
+    "test_type": "P"
+  },
+  "578": {
+    "name": "Initiative - Advanced Level 196",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/initiative---advanced-level-196-290/",
+    "test_type": "P"
+  },
+  "580": {
+    "name": "Attention to Detail - Advanced Level 197",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/attention-to-detail---advanced-level-197-291/",
+    "test_type": "P"
+  },
+  "582": {
+    "name": "Business Acumen - Advanced Level 198",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/business-acumen---advanced-level-198-292/",
+    "test_type": "P"
+  },
+  "584": {
+    "name": "Cultural Fit - Advanced Level 199",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/cultural-fit---advanced-level-199-293/",
+    "test_type": "P"
+  },
+  "586": {
+    "name": "Risk Assessment - Advanced Level 200",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/risk-assessment---advanced-level-200-294/",
+    "test_type": "P"
+  },
+  "588": {
+    "name": "Core Java Entry Level - Advanced Level 201",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/core-java-entry-level---advanced-level-201-295/",
+    "test_type": "K"
+  },
+  "590": {
+    "name": "Java 8 - Advanced Level 202",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/java-8---advanced-level-202-296/",
+    "test_type": "K"
+  },
+  "592": {
+    "name": "Python Fundamentals - Advanced Level 203",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/python-fundamentals---advanced-level-203-297/",
+    "test_type": "K"
+  },
+  "594": {
+    "name": "SQL Basics - Advanced Level 204",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/sql-basics---advanced-level-204-298/",
+    "test_type": "K"
+  },
+  "596": {
+    "name": "JavaScript Essentials - Advanced Level 205",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/javascript-essentials---advanced-level-205-299/",
+    "test_type": "K"
+  },
+  "598": {
+    "name": "C Programming - Advanced Level 206",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/c++-programming---advanced-level-206-300/",
+    "test_type": "K"
+  },
+  "600": {
+    "name": "Automata Theory - Advanced Level 207",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/automata-theory---advanced-level-207-301/",
+    "test_type": "K"
+  },
+  "602": {
+    "name": "Data Structures - Advanced Level 208",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/data-structures---advanced-level-208-302/",
+    "test_type": "K"
+  },
+  "604": {
+    "name": "Cloud Computing Basics - Advanced Level 209",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/cloud-computing-basics---advanced-level-209-303/",
+    "test_type": "K"
+  },
+  "606": {
+    "name": "DevOps Fundamentals - Advanced Level 210",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/devops-fundamentals---advanced-level-210-304/",
+    "test_type": "K"
+  },
+  "608": {
+    "name": "Machine Learning Basics - Advanced Level 211",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/machine-learning-basics---advanced-level-211-305/",
+    "test_type": "K"
+  },
+  "610": {
+    "name": "Web Development - Advanced Level 212",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/web-development---advanced-level-212-306/",
+    "test_type": "K"
+  },
+  "612": {
+    "name": "Mobile Development - Advanced Level 213",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/mobile-development---advanced-level-213-307/",
+    "test_type": "K"
+  },
+  "614": {
+    "name": "Cybersecurity Basics - Advanced Level 214",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/cybersecurity-basics---advanced-level-214-308/",
+    "test_type": "K"
+  },
+  "616": {
+    "name": "Networking Fundamentals - Advanced Level 215",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/networking-fundamentals---advanced-level-215-309/",
+    "test_type": "K"
+  },
+  "618": {
+    "name": "Database Design - Advanced Level 216",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/database-design---advanced-level-216-310/",
+    "test_type": "K"
+  },
+  "620": {
+    "name": "API Development - Advanced Level 217",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/api-development---advanced-level-217-311/",
+    "test_type": "K"
+  },
+  "622": {
+    "name": "Quality Assurance - Advanced Level 218",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/quality-assurance---advanced-level-218-312/",
+    "test_type": "K"
+  },
+  "624": {
+    "name": "Agile Methodology - Advanced Level 219",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/agile-methodology---advanced-level-219-313/",
+    "test_type": "K"
+  },
+  "626": {
+    "name": "Excel Advanced - Advanced Level 220",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/excel-advanced---advanced-level-220-314/",
+    "test_type": "K"
+  },
+  "628": {
+    "name": "Interpersonal Communications - Advanced Level 221",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/interpersonal-communications---advanced-level-221-315/",
+    "test_type": "P"
+  },
+  "630": {
+    "name": "Leadership Assessment - Advanced Level 222",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/leadership-assessment---advanced-level-222-316/",
+    "test_type": "P"
+  },
+  "632": {
+    "name": "Team Collaboration - Advanced Level 223",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/team-collaboration---advanced-level-223-317/",
+    "test_type": "P"
+  },
+  "634": {
+    "name": "Emotional Intelligence - Advanced Level 224",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/emotional-intelligence---advanced-level-224-318/",
+    "test_type": "P"
+  },
+  "636": {
+    "name": "Conflict Resolution - Advanced Level 225",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/conflict-resolution---advanced-level-225-319/",
+    "test_type": "P"
+  },
+  "638": {
+    "name": "Decision Making - Advanced Level 226",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/decision-making---advanced-level-226-320/",
+    "test_type": "P"
+  },
+  "640": {
+    "name": "Customer Service - Advanced Level 227",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/customer-service---advanced-level-227-321/",
+    "test_type": "P"
+  },
+  "642": {
+    "name": "Sales Aptitude - Advanced Level 228",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/sales-aptitude---advanced-level-228-322/",
+    "test_type": "P"
+  },
+  "644": {
+    "name": "Negotiation Skills - Advanced Level 229",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/negotiation-skills---advanced-level-229-323/",
+    "test_type": "P"
+  },
+  "646": {
+    "name": "Stress Management - Advanced Level 230",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/stress-management---advanced-level-230-324/",
+    "test_type": "P"
+  },
+  "648": {
+    "name": "Time Management - Advanced Level 231",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/time-management---advanced-level-231-325/",
+    "test_type": "P"
+  },
+  "650": {
+    "name": "Creativity Assessment - Advanced Level 232",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/creativity-assessment---advanced-level-232-326/",
+    "test_type": "P"
+  },
+  "652": {
+    "name": "Resilience - Advanced Level 233",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/resilience---advanced-level-233-327/",
+    "test_type": "P"
+  },
+  "654": {
+    "name": "Critical Thinking - Advanced Level 234",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/critical-thinking---advanced-level-234-328/",
+    "test_type": "P"
+  },
+  "656": {
+    "name": "Problem Solving Advanced - Advanced Level 235",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/problem-solving-advanced---advanced-level-235-329/",
+    "test_type": "P"
+  },
+  "658": {
+    "name": "Initiative - Advanced Level 236",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/initiative---advanced-level-236-330/",
+    "test_type": "P"
+  },
+  "660": {
+    "name": "Attention to Detail - Advanced Level 237",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/attention-to-detail---advanced-level-237-331/",
+    "test_type": "P"
+  },
+  "662": {
+    "name": "Business Acumen - Advanced Level 238",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/business-acumen---advanced-level-238-332/",
+    "test_type": "P"
+  },
+  "664": {
+    "name": "Cultural Fit - Advanced Level 239",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/cultural-fit---advanced-level-239-333/",
+    "test_type": "P"
+  },
+  "666": {
+    "name": "Risk Assessment - Advanced Level 240",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/risk-assessment---advanced-level-240-334/",
+    "test_type": "P"
+  },
+  "668": {
+    "name": "Core Java Entry Level - Advanced Level 241",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/core-java-entry-level---advanced-level-241-335/",
+    "test_type": "K"
+  },
+  "670": {
+    "name": "Java 8 - Advanced Level 242",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/java-8---advanced-level-242-336/",
+    "test_type": "K"
+  },
+  "672": {
+    "name": "Python Fundamentals - Advanced Level 243",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/python-fundamentals---advanced-level-243-337/",
+    "test_type": "K"
+  },
+  "674": {
+    "name": "SQL Basics - Advanced Level 244",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/sql-basics---advanced-level-244-338/",
+    "test_type": "K"
+  },
+  "676": {
+    "name": "JavaScript Essentials - Advanced Level 245",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/javascript-essentials---advanced-level-245-339/",
+    "test_type": "K"
+  },
+  "678": {
+    "name": "C Programming - Advanced Level 246",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/c++-programming---advanced-level-246-340/",
+    "test_type": "K"
+  },
+  "680": {
+    "name": "Automata Theory - Advanced Level 247",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/automata-theory---advanced-level-247-341/",
+    "test_type": "K"
+  },
+  "682": {
+    "name": "Data Structures - Advanced Level 248",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/data-structures---advanced-level-248-342/",
+    "test_type": "K"
+  },
+  "684": {
+    "name": "Cloud Computing Basics - Advanced Level 249",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/cloud-computing-basics---advanced-level-249-343/",
+    "test_type": "K"
+  },
+  "686": {
+    "name": "DevOps Fundamentals - Advanced Level 250",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/devops-fundamentals---advanced-level-250-344/",
+    "test_type": "K"
+  },
+  "688": {
+    "name": "Machine Learning Basics - Advanced Level 251",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/machine-learning-basics---advanced-level-251-345/",
+    "test_type": "K"
+  },
+  "690": {
+    "name": "Web Development - Advanced Level 252",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/web-development---advanced-level-252-346/",
+    "test_type": "K"
+  },
+  "692": {
+    "name": "Mobile Development - Advanced Level 253",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/mobile-development---advanced-level-253-347/",
+    "test_type": "K"
+  },
+  "694": {
+    "name": "Cybersecurity Basics - Advanced Level 254",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/cybersecurity-basics---advanced-level-254-348/",
+    "test_type": "K"
+  },
+  "696": {
+    "name": "Networking Fundamentals - Advanced Level 255",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/networking-fundamentals---advanced-level-255-349/",
+    "test_type": "K"
+  },
+  "698": {
+    "name": "Database Design - Advanced Level 256",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/database-design---advanced-level-256-350/",
+    "test_type": "K"
+  },
+  "700": {
+    "name": "API Development - Advanced Level 257",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/api-development---advanced-level-257-351/",
+    "test_type": "K"
+  },
+  "702": {
+    "name": "Quality Assurance - Advanced Level 258",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/quality-assurance---advanced-level-258-352/",
+    "test_type": "K"
+  },
+  "704": {
+    "name": "Agile Methodology - Advanced Level 259",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/agile-methodology---advanced-level-259-353/",
+    "test_type": "K"
+  },
+  "706": {
+    "name": "Excel Advanced - Advanced Level 260",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/excel-advanced---advanced-level-260-354/",
+    "test_type": "K"
+  },
+  "708": {
+    "name": "Interpersonal Communications - Advanced Level 261",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/interpersonal-communications---advanced-level-261-355/",
+    "test_type": "P"
+  },
+  "710": {
+    "name": "Leadership Assessment - Advanced Level 262",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/leadership-assessment---advanced-level-262-356/",
+    "test_type": "P"
+  },
+  "712": {
+    "name": "Team Collaboration - Advanced Level 263",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/team-collaboration---advanced-level-263-357/",
+    "test_type": "P"
+  },
+  "714": {
+    "name": "Emotional Intelligence - Advanced Level 264",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/emotional-intelligence---advanced-level-264-358/",
+    "test_type": "P"
+  },
+  "716": {
+    "name": "Conflict Resolution - Advanced Level 265",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/conflict-resolution---advanced-level-265-359/",
+    "test_type": "P"
+  },
+  "718": {
+    "name": "Decision Making - Advanced Level 266",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/decision-making---advanced-level-266-360/",
+    "test_type": "P"
+  },
+  "720": {
+    "name": "Customer Service - Advanced Level 267",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/customer-service---advanced-level-267-361/",
+    "test_type": "P"
+  },
+  "722": {
+    "name": "Sales Aptitude - Advanced Level 268",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/sales-aptitude---advanced-level-268-362/",
+    "test_type": "P"
+  },
+  "724": {
+    "name": "Negotiation Skills - Advanced Level 269",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/negotiation-skills---advanced-level-269-363/",
+    "test_type": "P"
+  },
+  "726": {
+    "name": "Stress Management - Advanced Level 270",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/stress-management---advanced-level-270-364/",
+    "test_type": "P"
+  },
+  "728": {
+    "name": "Time Management - Advanced Level 271",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/time-management---advanced-level-271-365/",
+    "test_type": "P"
+  },
+  "730": {
+    "name": "Creativity Assessment - Advanced Level 272",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/creativity-assessment---advanced-level-272-366/",
+    "test_type": "P"
+  },
+  "732": {
+    "name": "Resilience - Advanced Level 273",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/resilience---advanced-level-273-367/",
+    "test_type": "P"
+  },
+  "734": {
+    "name": "Critical Thinking - Advanced Level 274",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/critical-thinking---advanced-level-274-368/",
+    "test_type": "P"
+  },
+  "736": {
+    "name": "Problem Solving Advanced - Advanced Level 275",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/problem-solving-advanced---advanced-level-275-369/",
+    "test_type": "P"
+  },
+  "738": {
+    "name": "Initiative - Advanced Level 276",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/initiative---advanced-level-276-370/",
+    "test_type": "P"
+  },
+  "740": {
+    "name": "Attention to Detail - Advanced Level 277",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/attention-to-detail---advanced-level-277-371/",
+    "test_type": "P"
+  },
+  "742": {
+    "name": "Business Acumen - Advanced Level 278",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/business-acumen---advanced-level-278-372/",
+    "test_type": "P"
+  },
+  "744": {
+    "name": "Cultural Fit - Advanced Level 279",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/cultural-fit---advanced-level-279-373/",
+    "test_type": "P"
+  },
+  "746": {
+    "name": "Risk Assessment - Advanced Level 280",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/risk-assessment---advanced-level-280-374/",
+    "test_type": "P"
+  },
+  "748": {
+    "name": "Core Java Entry Level - Advanced Level 281",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/core-java-entry-level---advanced-level-281-375/",
+    "test_type": "K"
+  },
+  "750": {
+    "name": "Java 8 - Advanced Level 282",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/java-8---advanced-level-282-376/",
+    "test_type": "K"
+  },
+  "752": {
+    "name": "Python Fundamentals - Advanced Level 283",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/python-fundamentals---advanced-level-283-377/",
+    "test_type": "K"
+  }
+}
