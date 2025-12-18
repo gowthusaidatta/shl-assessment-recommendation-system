@@ -3,7 +3,7 @@ services:
     name: shl-recommender
     runtime: python
     plan: free
-    buildCommand: pip install -r requirements.txt && python scripts/02_build_embeddings.py
+    buildCommand: pip install --upgrade pip && pip install -r requirements.txt && python scripts/02_build_embeddings.py
     startCommand: uvicorn src.api.app:app --host 0.0.0.0 --port $PORT
     envVars:
       - key: USE_LLM_RERANKING
