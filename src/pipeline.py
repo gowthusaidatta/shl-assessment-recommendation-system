@@ -17,8 +17,18 @@ from config.settings import (
     RETRIEVAL_TOP_K_CANDIDATES,
     RECOMMENDATION_TOP_K,
     MIN_RECOMMENDATIONS,
-    EMBEDDING_DIMENSION
+    EMBEDDING_DIMENSION,
+    USE_LLM_RERANKING,
+    GEMINI_API_KEY
 )
+
+# Conditional import for LLM reranker
+if USE_LLM_RERANKING:
+    try:
+        from src.ranking.llm_reranker import GeminiReranker
+    except ImportError:
+        logger.warning("LLM reranking enabled but google-generativeai not installed")
+        USE_LLM_RERANKING = False
 
 logger = logging.getLogger(__name__)
 
@@ -35,6 +45,16 @@ class RecommendationPipeline:
         
         # Initialize embedder
         self.embedder = TextEmbedder()
+        
+        # Initialize LLM reranker if enabled
+        self.llm_reranker = None
+        if USE_LLM_RERANKING and GEMINI_API_KEY:
+            try:
+                from src.ranking.llm_reranker import GeminiReranker
+                self.llm_reranker = GeminiReranker(GEMINI_API_KEY)
+                logger.info("LLM reranking enabled")
+            except Exception as e:
+                logger.warning(f"Failed to initialize LLM reranker: {e}")
         
         # Load or build vector store
         if FAISS_INDEX_FILE.exists():
@@ -89,8 +109,17 @@ class RecommendationPipeline:
         """
         logger.info(f"Processing query: '{query[:100]}...'")
         
-        # Step 1: Analyze query
-        query_analysis = QueryAnalyzer.analyze(query)
+        # Step 1: Analyze query (use LLM if available)
+        if self.llm_reranker:
+            try:
+                query_analysis = self.llm_reranker.enhance_query_understanding(query)
+                logger.info("Using LLM-enhanced query analysis")
+            except Exception as e:
+                logger.warning(f"LLM query analysis failed, using rule-based: {e}")
+                query_analysis = QueryAnalyzer.analyze(query)
+        else:
+            query_analysis = QueryAnalyzer.analyze(query)
+        
         logger.info(f"Query needs balance: {query_analysis['needs_balance']}")
         logger.info(f"Test type weights: {query_analysis['test_type_weights']}")
         
@@ -101,7 +130,15 @@ class RecommendationPipeline:
         candidates = self.vector_store.search(query_embedding, k=retrieve_k)
         logger.info(f"Retrieved {len(candidates)} candidates")
         
-        # Step 4: Rank and balance
+        # Step 4: LLM reranking (if enabled)
+        if self.llm_reranker and len(candidates) > 0:
+            try:
+                candidates = self.llm_reranker.rerank(query, candidates, top_k=30)
+                logger.info("Applied LLM reranking")
+            except Exception as e:
+                logger.warning(f"LLM reranking failed: {e}")
+        
+        # Step 5: Rule-based ranking and balancing
         ranked = RecommendationBalancer.rank_and_balance(
             candidates,
             query_analysis,
@@ -109,7 +146,7 @@ class RecommendationPipeline:
             min_results=MIN_RECOMMENDATIONS
         )
         
-        # Step 5: Convert to Recommendation objects
+        # Step 6: Convert to Recommendation objects
         recommendations = [
             Recommendation(
                 assessment_name=assessment.assessment_name,

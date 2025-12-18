@@ -21,7 +21,7 @@ ASSESSMENTS_RAW_FILE = RAW_DATA_DIR / "assessments.json"
 ASSESSMENTS_CLEAN_FILE = PROCESSED_DATA_DIR / "assessments_clean.json"
 FAISS_INDEX_FILE = EMBEDDINGS_DIR / "faiss.index"
 METADATA_INDEX_FILE = EMBEDDINGS_DIR / "metadata.json"
-PREDICTIONS_CSV_FILE = PREDICTIONS_DIR / "test_predictions.csv"
+PREDICTIONS_CSV_FILE = PREDICTIONS_DIR / "gowthu_manikanta.csv"
 
 # Web crawler settings
 SHL_CATALOG_URL = "https://www.shl.com/solutions/products/product-catalog/"
@@ -42,14 +42,15 @@ MIN_RECOMMENDATIONS = 5
 
 # API settings
 API_HOST = "0.0.0.0"
-API_PORT = 8000
+API_PORT = int(os.getenv("PORT", 8000))  # Support Railway/Render $PORT
 API_TITLE = "SHL Assessment Recommendation API"
 API_VERSION = "1.0.0"
 
 # LLM settings (Gemini for optional reranking)
-GEMINI_API_KEY = os.getenv("GEMINI_API_KEY", "")
-USE_LLM_RERANKING = False  # Set to True to enable LLM-based reranking
-LLM_RERANK_TOP_K = 20  # Only rerank top-20 candidates
+GEMINI_API_KEY = os.getenv("GEMINI_API_KEY", "AIzaSyBADMWw8fA1EjFmuMzgWtUMrGos2CJNUjY")
+# Enable by setting env var USE_LLM_RERANKING=true
+USE_LLM_RERANKING = os.getenv("USE_LLM_RERANKING", "true").lower() == "true"
+LLM_RERANK_TOP_K = int(os.getenv("LLM_RERANK_TOP_K", "20"))  # Only rerank top-20 candidates
 
 # Logging
 LOG_LEVEL = "INFO"

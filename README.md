@@ -40,13 +40,15 @@ This system addresses the challenge of identifying the most relevant SHL assessm
 
 Input Query / JD
 ↓
-Query Analysis (skill + intent extraction)
+LLM Query Analysis (Gemini) - skill extraction
 ↓
 Sentence Embedding (all-MiniLM-L6-v2)
 ↓
 FAISS Vector Search (Top-N candidates)
 ↓
-Rule-based Re-ranking & Test-Type Balancing
+LLM Reranking (Gemini, optional)
+↓
+Rule-based Balancing & Test-Type Distribution
 ↓
 Final Ranked Recommendations (Top-10)
 
@@ -57,6 +59,7 @@ Final Ranked Recommendations (Top-10)
 - **Backend:** FastAPI
 - **Embeddings:** Sentence-Transformers (all-MiniLM-L6-v2)
 - **Vector Store:** FAISS
+- **LLM:** Google Gemini Pro (query understanding + reranking)
 - **Frontend:** Streamlit
 - **Evaluation:** Mean Recall@10 (custom implementation)
 
@@ -164,9 +167,48 @@ Detailed results and analysis are documented in the technical report.
 
 ## 📄 Deliverables
 
-* REST API with `/health` and `/recommend`
-* Streamlit-based frontend
-* CSV predictions for the unlabeled test set
-* Technical design and evaluation report
-* Fully reproducible codebase
+* ✅ REST API with `/health` and `/recommend`
+* ✅ Streamlit-based frontend
+* ✅ CSV predictions for test set (`gowthu_manikanta.csv`)
+* ✅ Technical design and evaluation report (2-page PDF)
+* ✅ Fully reproducible codebase with LLM integration
+* ✅ Deployment-ready (Procfile + runtime.txt)
+
+
+## 🚀 Deployment
+
+### Quick Deploy to Railway (Recommended)
+
+1. Push to GitHub (already done ✅)
+2. Go to https://railway.app
+3. New Project → Deploy from GitHub
+4. Select `shl-assessment-recommendation-system`
+5. Railway auto-deploys in ~3 minutes
+
+Your API will be live at: `https://your-app.railway.app`
+
+See [docs/GITHUB_DEPLOYMENT.md](docs/GITHUB_DEPLOYMENT.md) for detailed instructions.
+
+### Alternative Platforms
+- **Render:** Free tier, auto-deploys from GitHub
+- **Google Cloud Run:** Serverless, free tier available
+- **Docker:** See [docs/GITHUB_DEPLOYMENT.md](docs/GITHUB_DEPLOYMENT.md) for Dockerfile
+
+---
+
+## 📊 Submission Files
+
+- **Predictions CSV:** `data/predictions/gowthu_manikanta.csv` (9 queries, 89 recommendations)
+- **Technical Report:** `docs/TECHNICAL_REPORT_2PAGE.md` (convert to PDF for submission)
+- **GitHub Repository:** https://github.com/gowthusaidatta/shl-assessment-recommendation-system
+- **API Endpoints:** Deploy and share live URL
+- **Frontend:** Deploy Streamlit and share live URL
+
+---
+
+## 👤 Author
+
+**Gowthu V V Satya Sai Datta Manikanta**  
+SHL AI Research Intern - Take-Home Assessment  
+December 2025
 
