@@ -33,21 +33,23 @@ app.add_middleware(
     allow_headers=["*"],
 )
 
-# Initialize pipeline (loaded once at startup)
+# Initialize pipeline lazily (on first request) to avoid OOM on startup
+# This is important for free-tier deployments with memory constraints
 pipeline = None
 
 
-@app.on_event("startup")
-async def startup_event():
-    """Load pipeline on startup."""
+def get_pipeline():
+    """Lazy-load pipeline on first request."""
     global pipeline
-    logger.info("Initializing recommendation pipeline...")
-    try:
-        pipeline = RecommendationPipeline()
-        logger.info("Pipeline initialized successfully")
-    except Exception as e:
-        logger.error(f"Failed to initialize pipeline: {e}")
-        raise
+    if pipeline is None:
+        logger.info("Lazy-loading recommendation pipeline on first request...")
+        try:
+            pipeline = RecommendationPipeline()
+            logger.info("Pipeline initialized successfully")
+        except Exception as e:
+            logger.error(f"Failed to initialize pipeline: {e}")
+            raise
+    return pipeline
 
 
 @app.get("/health", response_model=HealthResponse)
@@ -85,8 +87,10 @@ async def recommend(query_request: Query):
         "timestamp": "2025-12-17T12:00:00Z"
     }
     """
-    if not pipeline:
-        raise HTTPException(status_code=503, detail="Pipeline not initialized")
+    try:
+        pipeline = get_pipeline()
+    except Exception as e:
+        raise HTTPException(status_code=503, detail=f"Pipeline initialization failed: {str(e)}")
     
     # Extract query text
     query_text = query_request.text
