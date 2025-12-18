@@ -177,20 +177,26 @@ Detailed results and analysis are documented in the technical report.
 
 ## 🚀 Deployment
 
-### Quick Deploy to Railway (Recommended)
+### Live Deployment 🌐
 
-1. Push to GitHub (already done ✅)
-2. Go to https://railway.app
-3. New Project → Deploy from GitHub
-4. Select `shl-assessment-recommendation-system`
-5. Railway auto-deploys in ~3 minutes
+**Backend API:** https://shl-recommender-x8la.onrender.com  
+**Frontend UI:** Deploy to Streamlit Cloud (see instructions below)
 
-Your API will be live at: `https://your-app.railway.app`
+The API is deployed on Render's free tier and automatically redeploys on every push to `main`.
 
-See [docs/GITHUB_DEPLOYMENT.md](docs/GITHUB_DEPLOYMENT.md) for detailed instructions.
+### Deploy Frontend to Streamlit Cloud
+
+1. Go to https://share.streamlit.io/
+2. Sign in with GitHub
+3. Click "New app"
+4. Select this repository: `gowthusaidatta/shl-assessment-recommendation-system`
+5. Set main file path: `src/frontend/app.py`
+6. Click "Deploy!"
+
+Your frontend will be live at: `https://share.streamlit.io/[username]/shl-assessment-recommendation-system`
 
 ### Alternative Platforms
-- **Render:** Free tier, auto-deploys from GitHub
+- **Render:** Currently used for API deployment (free tier)
 - **Google Cloud Run:** Serverless, free tier available
 - **Docker:** See [docs/GITHUB_DEPLOYMENT.md](docs/GITHUB_DEPLOYMENT.md) for Dockerfile
 

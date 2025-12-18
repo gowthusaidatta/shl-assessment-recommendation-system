@@ -26,7 +26,7 @@ st.sidebar.info(
 # API endpoint
 API_URL = st.sidebar.text_input(
     "API Endpoint",
-    value="http://localhost:8000",
+    value="https://shl-recommender-x8la.onrender.com",
     help="URL of the recommendation API"
 )
 
