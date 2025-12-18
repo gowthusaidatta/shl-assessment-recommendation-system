@@ -59,9 +59,13 @@ class RecommendationPipeline:
         # Load or build vector store
         if FAISS_INDEX_FILE.exists():
             logger.info("Loading existing FAISS index...")
-            self.vector_store = self._load_vector_store()
+            try:
+                self.vector_store = self._load_vector_store()
+            except Exception as e:
+                logger.warning(f"Failed to load FAISS index: {e}. Rebuilding...")
+                self.vector_store = self._build_vector_store()
         else:
-            logger.warning("FAISS index not found. Building new one...")
+            logger.info("FAISS index not found. Building new one...")
             self.vector_store = self._build_vector_store()
         
         logger.info("Pipeline ready")

@@ -44,9 +44,14 @@ env/
 .ipynb_checkpoints/
 *.ipynb
 
-# Data (optional - keep processed for deployment)
-# data/raw/*.json
-# data/processed/*.json
+# Data - excluded for deployment (rebuilt at runtime)
+data/raw/*.json
+data/processed/assessments_clean.json
+data/processed/embeddings/faiss.index
+data/processed/embeddings/assessments_metadata.json
+data/processed/embeddings/metadata.json
+# Keep predictions for submission
+!data/predictions/
 
 # Logs
 *.log
