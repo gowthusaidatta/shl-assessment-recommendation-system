@@ -1,0 +1,14 @@
+services:
+  - type: web
+    name: shl-recommender
+    env: python
+    plan: free
+    region: oregon
+    pythonVersion: 3.11
+    buildCommand: pip install -r requirements.txt && python scripts/02_build_embeddings.py
+    startCommand: uvicorn src.api.app:app --host 0.0.0.0 --port $PORT
+    envVars:
+      - key: USE_LLM_RERANKING
+        value: "true"
+      - key: GEMINI_API_KEY
+        value: AIzaSyBADMWw8fA1EjFmuMzgWtUMrGos2CJNUjY
