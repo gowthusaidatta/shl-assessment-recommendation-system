@@ -8,5 +8,7 @@ services:
     envVars:
       - key: USE_LLM_RERANKING
         value: true
+      - key: PYTHON_VERSION
+        value: 3.11.7
       - key: GEMINI_API_KEY
         value: AIzaSyBADMWw8fA1EjFmuMzgWtUMrGos2CJNUjY

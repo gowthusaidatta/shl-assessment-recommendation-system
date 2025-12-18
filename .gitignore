@@ -44,12 +44,13 @@ env/
 .ipynb_checkpoints/
 *.ipynb
 
-# Data - excluded for deployment (rebuilt at runtime)
+# Data - exclude heavy artifacts; keep cleaned catalog JSON
 data/raw/*.json
-data/processed/assessments_clean.json
 data/processed/embeddings/faiss.index
 data/processed/embeddings/assessments_metadata.json
 data/processed/embeddings/metadata.json
+# Ensure cleaned assessments JSON is tracked (needed for build)
+!data/processed/assessments_clean.json
 # Keep predictions for submission
 !data/predictions/
 
